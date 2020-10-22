@@ -1,0 +1,18 @@
+A ideia se baseia em criar um "jogo" na linha de comando...  Tipo jogo de escolha entre SIM e NÃO ou multiplas escolhas( 0, 1, 2...)
+
+Essas são as "informações" do jogo... (Ainda tô montando kkkkk)
+    1. A cada escolha que for feita ojogador irá alterar o final do Jogo;
+    2. Pretendo colocar uma variavél chamada "vida"
+        a. "Vida" começará com 50 e poderá chegar até 150
+        b. Se a "Vida" chega a zero é fim de jogo
+        c. Os personagens vão "reagir" de acordo com a escolha, podendo assim serem gentis e ajudar o Player
+    3. Pretendo colocar "Personagens fixos", como por exemplo:
+        a. Um personagem para ajudar o player, porém, não vai estar ajudando sempre.
+        b. Um vilão muito doido/maluco que quer acabar com o player
+        c. Algum personagem para o Player defender 
+
+<<<=================================================>>>
+Não tem muito o que falar, pretendo desenvolver essa ideia mais para frente.
+Ainda estou criando uma historia e ramificações dela e por enquanto, estou aprendendo a usar if else e os laços de repetição.
+<<<=================================================>>>
+Aconselho você que está lendo que não espere coisas maravilhosas kkkkk, até ano passado eu não sabia o que era programação. :)
