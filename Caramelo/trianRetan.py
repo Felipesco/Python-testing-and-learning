@@ -1,4 +1,6 @@
-# Medir a Hipotenusa de um Triângulo Retângulo
+# trianRetan.py == ex017.py
+# Uso pessoal
+
 from math import hypot
 
 print('Lembrando que essa conta é para um Triângulo Retângulo!')
